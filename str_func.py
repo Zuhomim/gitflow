@@ -1,6 +1,6 @@
-def raise_register(word):
+def raise_register(text_):
     """увеличивает регистр каждой буквы"""
-    return word.upper()
+    return text_.upper()
 
 
 def raise_first_letter(string_):
